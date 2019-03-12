@@ -3,7 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlipperinoWorderino", "FlipperinoWorderino\FlipperinoWorderino.csproj", "{973BF502-B651-404E-A393-E61D3373E463}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlipperinoWorderino", "FlipperinoWorderino\FlipperinoWorderino.csproj", "{973BF502-B651-404E-A393-E61D3373E463}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sample", "sample", "{7E0DE7CE-A0CB-4EE3-B488-6552561DA0E1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{31356128-7199-497C-9E06-233CCA895AF4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{FF128D89-E1B8-4F42-8A26-7E07FE68627D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{B76CFED6-9F6E-4E22-B924-60FA215EDA19}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,6 +26,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{973BF502-B651-404E-A393-E61D3373E463} = {FF128D89-E1B8-4F42-8A26-7E07FE68627D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {444D56AC-8BFE-417A-B340-6CACBA2B6ACA}
