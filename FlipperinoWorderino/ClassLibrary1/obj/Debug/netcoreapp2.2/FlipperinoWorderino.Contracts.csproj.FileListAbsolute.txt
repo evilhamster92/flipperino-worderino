@@ -1,0 +1,8 @@
+C:\fliperino\FlipperinoWorderino\ClassLibrary1\bin\Debug\netcoreapp2.2\FlipperinoWorderino.Contracts.deps.json
+C:\fliperino\FlipperinoWorderino\ClassLibrary1\bin\Debug\netcoreapp2.2\FlipperinoWorderino.Contracts.dll
+C:\fliperino\FlipperinoWorderino\ClassLibrary1\bin\Debug\netcoreapp2.2\FlipperinoWorderino.Contracts.pdb
+C:\fliperino\FlipperinoWorderino\ClassLibrary1\obj\Debug\netcoreapp2.2\FlipperinoWorderino.Contracts.csproj.CoreCompileInputs.cache
+C:\fliperino\FlipperinoWorderino\ClassLibrary1\obj\Debug\netcoreapp2.2\FlipperinoWorderino.Contracts.AssemblyInfoInputs.cache
+C:\fliperino\FlipperinoWorderino\ClassLibrary1\obj\Debug\netcoreapp2.2\FlipperinoWorderino.Contracts.AssemblyInfo.cs
+C:\fliperino\FlipperinoWorderino\ClassLibrary1\obj\Debug\netcoreapp2.2\FlipperinoWorderino.Contracts.dll
+C:\fliperino\FlipperinoWorderino\ClassLibrary1\obj\Debug\netcoreapp2.2\FlipperinoWorderino.Contracts.pdb

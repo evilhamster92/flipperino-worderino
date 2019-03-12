@@ -1,0 +1,12 @@
+C:\fliperino\FlipperinoWorderino\FlipperinoWorderino.Services\bin\Debug\netcoreapp2.2\FlipperinoWorderino.Services.deps.json
+C:\fliperino\FlipperinoWorderino\FlipperinoWorderino.Services\bin\Debug\netcoreapp2.2\FlipperinoWorderino.Services.dll
+C:\fliperino\FlipperinoWorderino\FlipperinoWorderino.Services\bin\Debug\netcoreapp2.2\FlipperinoWorderino.Services.pdb
+C:\fliperino\FlipperinoWorderino\FlipperinoWorderino.Services\bin\Debug\netcoreapp2.2\FlipperinoWorderino.Contracts.dll
+C:\fliperino\FlipperinoWorderino\FlipperinoWorderino.Services\bin\Debug\netcoreapp2.2\FlipperinoWorderino.Contracts.pdb
+C:\fliperino\FlipperinoWorderino\FlipperinoWorderino.Services\obj\Debug\netcoreapp2.2\FlipperinoWorderino.Services.csprojAssemblyReference.cache
+C:\fliperino\FlipperinoWorderino\FlipperinoWorderino.Services\obj\Debug\netcoreapp2.2\FlipperinoWorderino.Services.csproj.CoreCompileInputs.cache
+C:\fliperino\FlipperinoWorderino\FlipperinoWorderino.Services\obj\Debug\netcoreapp2.2\FlipperinoWorderino.Services.AssemblyInfoInputs.cache
+C:\fliperino\FlipperinoWorderino\FlipperinoWorderino.Services\obj\Debug\netcoreapp2.2\FlipperinoWorderino.Services.AssemblyInfo.cs
+C:\fliperino\FlipperinoWorderino\FlipperinoWorderino.Services\obj\Debug\netcoreapp2.2\FlipperinoWorderino.Services.csproj.CopyComplete
+C:\fliperino\FlipperinoWorderino\FlipperinoWorderino.Services\obj\Debug\netcoreapp2.2\FlipperinoWorderino.Services.dll
+C:\fliperino\FlipperinoWorderino\FlipperinoWorderino.Services\obj\Debug\netcoreapp2.2\FlipperinoWorderino.Services.pdb
