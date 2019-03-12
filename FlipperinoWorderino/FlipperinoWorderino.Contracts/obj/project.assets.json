@@ -12166,11 +12166,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\fliperino\\FlipperinoWorderino\\FlipperinoWorderino\\FlipperinoWorderino.Host.csproj",
-      "projectName": "FlipperinoWorderino.Host",
-      "projectPath": "C:\\fliperino\\FlipperinoWorderino\\FlipperinoWorderino\\FlipperinoWorderino.Host.csproj",
+      "projectUniqueName": "C:\\fliperino\\FlipperinoWorderino\\FlipperinoWorderino.Contracts\\FlipperinoWorderino.Contracts.csproj",
+      "projectName": "FlipperinoWorderino.Contracts",
+      "projectPath": "C:\\fliperino\\FlipperinoWorderino\\FlipperinoWorderino.Contracts\\FlipperinoWorderino.Contracts.csproj",
       "packagesPath": "C:\\Users\\adrian.bartos\\.nuget\\packages\\",
-      "outputPath": "C:\\fliperino\\FlipperinoWorderino\\FlipperinoWorderino\\obj\\",
+      "outputPath": "C:\\fliperino\\FlipperinoWorderino\\FlipperinoWorderino.Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,14 @@
+C:\fliperino\FlipperinoWorderino\FlipperinoWorderino\bin\Debug\netcoreapp2.2\FlipperinoWorderino.WebApi.deps.json
+C:\fliperino\FlipperinoWorderino\FlipperinoWorderino\bin\Debug\netcoreapp2.2\FlipperinoWorderino.WebApi.runtimeconfig.json
+C:\fliperino\FlipperinoWorderino\FlipperinoWorderino\bin\Debug\netcoreapp2.2\FlipperinoWorderino.WebApi.runtimeconfig.dev.json
+C:\fliperino\FlipperinoWorderino\FlipperinoWorderino\bin\Debug\netcoreapp2.2\FlipperinoWorderino.WebApi.dll
+C:\fliperino\FlipperinoWorderino\FlipperinoWorderino\bin\Debug\netcoreapp2.2\FlipperinoWorderino.WebApi.pdb
+C:\fliperino\FlipperinoWorderino\FlipperinoWorderino\obj\Debug\netcoreapp2.2\FlipperinoWorderino.WebApi.csprojAssemblyReference.cache
+C:\fliperino\FlipperinoWorderino\FlipperinoWorderino\obj\Debug\netcoreapp2.2\FlipperinoWorderino.WebApi.csproj.CoreCompileInputs.cache
+C:\fliperino\FlipperinoWorderino\FlipperinoWorderino\obj\Debug\netcoreapp2.2\FlipperinoWorderino.WebApi.RazorAssemblyInfo.cache
+C:\fliperino\FlipperinoWorderino\FlipperinoWorderino\obj\Debug\netcoreapp2.2\FlipperinoWorderino.WebApi.RazorAssemblyInfo.cs
+C:\fliperino\FlipperinoWorderino\FlipperinoWorderino\obj\Debug\netcoreapp2.2\FlipperinoWorderino.WebApi.AssemblyInfoInputs.cache
+C:\fliperino\FlipperinoWorderino\FlipperinoWorderino\obj\Debug\netcoreapp2.2\FlipperinoWorderino.WebApi.AssemblyInfo.cs
+C:\fliperino\FlipperinoWorderino\FlipperinoWorderino\obj\Debug\netcoreapp2.2\FlipperinoWorderino.WebApi.RazorTargetAssemblyInfo.cache
+C:\fliperino\FlipperinoWorderino\FlipperinoWorderino\obj\Debug\netcoreapp2.2\FlipperinoWorderino.WebApi.dll
+C:\fliperino\FlipperinoWorderino\FlipperinoWorderino\obj\Debug\netcoreapp2.2\FlipperinoWorderino.WebApi.pdb

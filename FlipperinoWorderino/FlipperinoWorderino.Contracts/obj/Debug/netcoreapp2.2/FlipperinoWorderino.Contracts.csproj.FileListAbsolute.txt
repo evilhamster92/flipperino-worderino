@@ -1,0 +1,6 @@
+C:\fliperino\FlipperinoWorderino\FlipperinoWorderino.Contracts\obj\Debug\netcoreapp2.2\FlipperinoWorderino.Contracts.csprojAssemblyReference.cache
+C:\fliperino\FlipperinoWorderino\FlipperinoWorderino.Contracts\obj\Debug\netcoreapp2.2\FlipperinoWorderino.Contracts.csproj.CoreCompileInputs.cache
+C:\fliperino\FlipperinoWorderino\FlipperinoWorderino.Contracts\obj\Debug\netcoreapp2.2\FlipperinoWorderino.Contracts.RazorAssemblyInfo.cache
+C:\fliperino\FlipperinoWorderino\FlipperinoWorderino.Contracts\obj\Debug\netcoreapp2.2\FlipperinoWorderino.Contracts.RazorAssemblyInfo.cs
+C:\fliperino\FlipperinoWorderino\FlipperinoWorderino.Contracts\obj\Debug\netcoreapp2.2\FlipperinoWorderino.Contracts.AssemblyInfoInputs.cache
+C:\fliperino\FlipperinoWorderino\FlipperinoWorderino.Contracts\obj\Debug\netcoreapp2.2\FlipperinoWorderino.Contracts.AssemblyInfo.cs
